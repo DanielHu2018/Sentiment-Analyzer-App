@@ -1,5 +1,6 @@
-﻿# Sentiment-Analyzer-App
-Built in Python 3.12.7
+﻿## Sentiment Analyzer App
+
+A web-based Sentiment Analyzer built using Python (3.12.7). This application allows users to input text and receive a sentiment classification (Positive or Negative) based on natural language processing techniques.
 
 ## 🔧 Installation
 
@@ -21,3 +22,6 @@ Built in Python 3.12.7
 7. **Run the App**:
    ```bash
    streamlit run app.py
+
+## 📌 Todo / Future Improvements
+Find dataset to train a model to classify text as informal or formal.
